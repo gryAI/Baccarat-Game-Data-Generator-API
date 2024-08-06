@@ -58,4 +58,7 @@ To run the API locally, follow these steps:
     `source venv/Scripts/activate`
  4. **Install Dependencies:** `pip install -r requirements.txt`
  5. **Run the application:** `uvicorn server.app:app --host 0.0.0.0 --port 8000`
+
+--------------------------------------------------
+### Let's connect! https://www.linkedin.com/in/lqestradacpa/
     
