@@ -180,6 +180,10 @@ def compute_payout(winner, wager, bet):
     return payout
 
 
+def dataclass_to_dict(obj):
+    return {k: (v if not isinstance(v, list) else list(v)) for k, v in vars(obj).items()}
+
+
 # Function Wrapper
 def play_game(type = 'normal') -> GameResult:
 
