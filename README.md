@@ -16,6 +16,8 @@ A publicly available API designed to generate simulated Baccarat game data. This
 - Generate single game data: `https://baccarat-api-v1.onrender.com/baccarat/`
 - Generate multiple game data: `https://baccarat-api-v1.onrender.com/baccarat?num_records=50`
 
+![image](https://github.com/user-attachments/assets/ae66a938-8897-44c8-8eb9-7c14ada71973)
+
 
 ### API Limitations
 - Rate Limit: Requests are limited to 5 per minute
