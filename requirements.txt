@@ -2,3 +2,4 @@ fastapi==0.112.0
 numpy==2.0.1
 pandas==2.2.2
 uvicorn==0.30.5
+slowapi==0.1.9
