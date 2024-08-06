@@ -2,4 +2,4 @@ venv
 *.pyo
 *.pyc
 .python-version
-**/__pycache__
+**/
