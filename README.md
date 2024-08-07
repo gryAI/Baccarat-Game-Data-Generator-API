@@ -12,9 +12,9 @@ A publicly available API designed to generate simulated Baccarat game data. This
 
 
 ### How to access the API
-- View the documentation: `https://baccarat-api-v1.onrender.com/docs`
-- Generate single game data: `https://baccarat-api-v1.onrender.com/baccarat/`
-- Generate multiple game data: `https://baccarat-api-v1.onrender.com/baccarat?num_records=10`
+- View the documentation: https://baccarat-api-v1.onrender.com/docs
+- Generate single game data: https://baccarat-api-v1.onrender.com/baccarat/
+- Generate multiple game data: https://baccarat-api-v1.onrender.com/baccarat?num_records=10
 
 ![image](https://github.com/user-attachments/assets/ae66a938-8897-44c8-8eb9-7c14ada71973)
 
